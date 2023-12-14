@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.pdf
 # C extensions
 *.so
-
+*.nlogo
 # Distribution / packaging
 .Python
 build/
@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.conda
 
 # Spyder project settings
 .spyderproject
